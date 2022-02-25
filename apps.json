@@ -110,6 +110,17 @@
 		"position": "Founder & CEO"
 	},
 	{
+		"id": 2,
+		"platform": "Windows",
+		"name": "পাঁচ কালেমা",
+		"short_description": "Five Kalima of Islam - পাঁচ কালেমা ও ৩০ টি ছোট সূরা বাংলা অর্থ সহ অডিও ।",
+		"logo": "https://store-images.s-microsoft.com/image/apps.63371.13714679490090713.2fd2baa6-e6c4-48fe-87d8-bc838f728465.e4d947c8-d561-45d3-915b-5c086c15b9ba?mode=scale&q=90&h=1080&w=1920",
+		"url": "https://www.microsoft.com/store/productId/9NL4KCW367BQ",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
 		"id": 4,
 		"platform": "Android",
 		"name": "Names Of Prophet Muhammad SAW হযরত মুহাম্মদ (সাঃ)",
