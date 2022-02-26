@@ -135,12 +135,12 @@
 		"id": 1,
 		"platform": "Android",
 		"name": "Asst Upazila Education Officer",
-		"short_description": "Assistant Upazila Education Officer App",
+		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/duLEprjQH4yAdOsarTJec1NT11uTtZXIxFYFPqKZC4rwMRxAAYm4NSYWuMT7Nd4RefEI=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.asst_education_officer_association",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Bangladesh Assistant Upazila Education Officer Association",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -149,9 +149,9 @@
 		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/PhaAJJ-z1JRmxkYhw7iFTmwKGNwJuWn0Mhf4UukZhxjV8oFjS_v4JYINMetdFjAWRY8=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.alumni_association_dawah",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Islamic University, Bangladesh",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -161,8 +161,8 @@
 		"logo": "https://play-lh.googleusercontent.com/MZNbRCAOK9JKjOqiMdh0qLYfkfl4WhbAzBrZsXEyfkmLK0IAYYayZrgsNp1Dur1OdBk=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.muslim_modern_academy",
 		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -171,9 +171,9 @@
 		"short_description": "Al-Quran app (Bangla) is a multi-platform application (Android, iOS, Web) developed for advance Qur-an learners, especially for Bangla language base Muslims of the sub-continent.",
 		"logo": "https://play-lh.googleusercontent.com/BjSm3dLVslhqAg5ygTUGTdmI72h-TUok5tKuuDKlZUmN8VTbjU4qTl3-hQRwUk_pGYw=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.app",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -182,9 +182,9 @@
 		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/lRotwdWHIUq4533gnG_4n2l1sEbQGNSEnSQg-zUB9u9C2aidNnDttzCqX0cyx4GZHQkx=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.app_kolikata2",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -193,9 +193,9 @@
 		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/oiioz3OsHKbqIPoLwvZ2g8SM7JS6jLYguRmJzb7yPX4Ebx7pVJP1RCvQY9XxpjgcqMr7=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.rabbana_app",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -204,9 +204,9 @@
 		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/MlD73v6ruSYwDiXt33MlWcJVkFuovu8NH-iM72NUfAce-lPkChai8XEn5AH-wLZ142Q=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.alquraner_sobduguli_orthu",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	},
 	{
 		"id": 1,
@@ -215,8 +215,8 @@
 		"short_description": "",
 		"logo": "https://play-lh.googleusercontent.com/HgKMhjGip7oQSR5thtOQDAA5MB5kXJOfPZljXNIyMG7u_w4MUkhXuIfa2Rke2tS5ws4=s180-rw",
 		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.subject_wise_quran",
-		"client": "",
-		"company":"Ms IT Xpress",
-		"position": "Founder & CEO"
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
 	}
 ]
