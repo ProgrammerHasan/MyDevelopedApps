@@ -35,6 +35,17 @@
 	{
 		"id": 3,
 		"platform": "Android",
+		"name": "Biman Hajj Flight",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/5N5PVRva9S2iKEUirEmt50_AtE5oYMIVmwVk3LZDHpAbIhJcwahdeJ0oGw2c_6TONokF=w240-h480-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.apsbiman.bimanhajjflights",
+		"client": "Biman Bangladesh Airlines",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 3,
+		"platform": "Android",
 		"name": "Arabica Coffee",
 		"short_description": "Official App of Arabica Coffee for employee to manage customer visiting & other reports.",
 		"logo": "https://play-lh.googleusercontent.com/yZKIQlPr4MSxThVZ4P4tsePOCsI35liVcDVYzw4WDWMXLoosc7nIYUuLq6NwZVz09PI=s180-rw",
